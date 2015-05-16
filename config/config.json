@@ -1,0 +1,7 @@
+{
+  "grid_host": "http://localhost:4444/wd/hub",
+  "browser": "firefox",
+  "screenshot_directory": "../screenshots",
+  "host": "http://cs.kennesaw.edu/",
+  "language": "../config/language.json"
+}

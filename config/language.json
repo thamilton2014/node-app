@@ -1,0 +1,104 @@
+[
+  {
+    "token": {
+      "id": 1,
+      "action": "CLICK_TOK",
+      "lexeme": "about",
+      "locators": [
+        {
+          "element_id": null,
+          "element_xpath": null,
+          "element_css": null,
+          "element_linktext": "About",
+          "element_classname": null,
+          "element_partiallinktext": null
+        }
+      ]
+    }
+  },
+  {
+    "token": {
+      "id": 2,
+      "action": "TYPE_TOK",
+      "lexeme": "my email address",
+      "locators": [
+        {
+          "element_id": "E-mail",
+          "element_xpath": null,
+          "element_css": null,
+          "element_linktext": null,
+          "element_classname": null,
+          "element_partiallinktext": null
+        }
+      ]
+    }
+  },
+  {
+    "token": {
+      "id": 3,
+      "action": "CLICK_TOK",
+      "lexeme": "contact",
+      "locators": [
+        {
+          "element_id": null,
+          "element_xpath": null,
+          "element_css": null,
+          "element_linktext": "Contact",
+          "element_classname": null,
+          "element_partiallinktext": null
+        }
+      ]
+    }
+  },
+  {
+    "token": {
+      "id": 4,
+      "action": "TYPE_TOK",
+      "lexeme": "my name",
+      "locators": [
+        {
+          "element_id": "Name",
+          "element_xpath": null,
+          "element_css": null,
+          "element_linktext": null,
+          "element_classname": null,
+          "element_partiallinktext": null
+        }
+      ]
+    }
+  },
+  {
+    "token": {
+      "id": 5,
+      "action": "CLICK_TOK",
+      "lexeme": "happening",
+      "locators": [
+        {
+          "element_id": null,
+          "element_xpath": null,
+          "element_css": null,
+          "element_linktext": "Happening",
+          "element_classname": null,
+          "element_partiallinktext": null
+        }
+      ]
+    }
+  },
+  {
+    "token": {
+      "id": 6,
+      "action": "CLICK_TOK",
+      "lexeme": "something",
+      "locators": [
+        {
+          "element_id": "something",
+          "element_xpath": null,
+          "element_css": null,
+          "element_linktext": null,
+          "element_classname": null,
+          "element_partiallinktext": null
+        }
+      ]
+    }
+  }
+]
